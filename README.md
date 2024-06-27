@@ -23,6 +23,6 @@ Welcome to my GitHub profile.
 - 📫 How to reach me: [Contact Me](mailto:your.email@example.com)
 - ⚡ Fun fact: I love playing guitar in my free time.
 
-You can find my Python script `main.py` [here](./path/to/main.py).
+You can find my Python script `main.py` (main.py).
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions!
